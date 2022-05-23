@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'XCYD Office',
-  domain: 'https://xcyd.notion.site/Hey-There-I-m-Chris-6502d780ceab4272a1e5f69b5db20b7f',
+  domain: 'https://xcyd.notion.site',
   author: 'xcyd',
 
   // open graph metadata (optional)
