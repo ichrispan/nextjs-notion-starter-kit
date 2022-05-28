@@ -6,15 +6,15 @@ module.exports = {
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
-  // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+//   // basic site info (required)
+//   name: 'Transitive Bullshit',
+//   domain: 'transitivebullsh.it',
+//   author: 'Travis Fischer',
 
-  // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
-  socialImageSubtitle: 'Hello World! 👋',
+//   // open graph metadata (optional)
+//   description: 'Example site description',
+//   socialImageTitle: 'Transitive Bullshit',
+//   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
 //   twitter: 'transitive_bs',
