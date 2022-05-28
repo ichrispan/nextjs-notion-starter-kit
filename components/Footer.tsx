@@ -53,17 +53,17 @@ export const Footer: React.FC<{
           </a>
         )}
 
-        {config.github && (
-          <a
-            className={styles.github}
-            href={`https://github.com/${config.github}`}
-            title={`GitHub @${config.github}`}
-            target='_blank'
-            rel='noopener noreferrer'
-          >
-            <FaGithub />
-          </a>
-        )}
+//         {config.github && (
+//           <a
+//             className={styles.github}
+//             href={`https://github.com/${config.github}`}
+//             title={`GitHub @${config.github}`}
+//             target='_blank'
+//             rel='noopener noreferrer'
+//           >
+//             <FaGithub />
+//           </a>
+//         )}
 
         {config.linkedin && (
           <a
